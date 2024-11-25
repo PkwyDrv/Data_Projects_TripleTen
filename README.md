@@ -15,7 +15,7 @@
 
 ### About Me
 
-I've immersed myself in the world of data science beginning with a python 101 course, and then taking that knowledge into an intensive bootcamp program. My coontinued journey into the world of data science is driven by a passion for extracting meaningful insights from large data sets, and leveraging machine learning to solve real-world problems. This repository chronicles my growth, showcasing some of the practical skills I've honed.
+I've immersed myself in the world of data science beginning with a python 101 course, and then taking that knowledge into an intensive bootcamp program. My continued journey into the world of data science is driven by a passion for extracting meaningful insights from large data sets, and leveraging machine learning to solve real-world problems. This repository chronicles my growth, showcasing some of the practical skills I've honed.
 
 ### My Projects
 
